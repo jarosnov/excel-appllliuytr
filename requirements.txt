@@ -1,0 +1,18 @@
+Webpack (imports/exports)
+    Babel
+    Scss
+    Eslint
+    2 Modes
+        - Dev
+            Dev Server, SourceMaps, Eslint, Not Minified JS & CSS
+        - Prod
+            Minified Code
+Git
+
+    Production
+        1.0.0
+        0------------
+    Development
+        1.0.2 - позже первая ветка сольется с 0
+        1--------------- + --   PR+(Pool Request) - запрос на совмещениеветок
+        2----------------- | позже эта ветка удаляется
